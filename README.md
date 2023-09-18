@@ -1,4 +1,4 @@
-#Connect 4 AI
+# Connect 4 AI
 
 Developed a Python-based Connect 4 game using Pygame, featuring both multiplayer and AI opponent modes.
 
