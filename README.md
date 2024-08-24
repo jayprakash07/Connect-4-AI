@@ -17,4 +17,6 @@ Main Features:
 
 Made by Jayprakash Pathak
 
+Logo made by Jayprakash Pathak
+
 ![Logo_4](https://user-images.githubusercontent.com/49925882/190212507-7134c250-d66b-42da-8478-1b0e743264f9.png)
